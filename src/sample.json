@@ -1,0 +1,305 @@
+{
+    "status": "ok",
+    "totalResults": 34,
+    
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Alone in the Dark Review - IGN",
+            "description": "Alone in the Dark reviewed by Tristan Ogilvie on PC. Also available on PlayStation 5 and Xbox Series X|S.\"Like a Louisiana voodoo priestess, Alone in the Dar...",
+            "url": "https://www.youtube.com/watch?v=74lvkWvu8s4",
+            "urlToImage": "https://i.ytimg.com/vi/74lvkWvu8s4/maxresdefault.jpg",
+            "publishedAt": "2024-03-19T14:00:07Z",
+            "content": null
+        },
+        
+        {
+            
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Hartley Charlton",
+            "title": "New iPad Air Now Shipping From China Ahead of Announcement - MacRumors",
+            "description": "The next-generation iPad Air is now reportedly shipping to the United States and other countries in preparation for launch.   The rumor comes from...",
+            "url": "https://www.macrumors.com/2024/03/19/new-ipad-air-shipping-from-china/",
+            "urlToImage": "https://images.macrumors.com/t/y9oCs9lf7Jb8ZChMrEm63IsNs6A=/1600x/article-new/2024/02/iPad-Air-5.jpg",
+            "publishedAt": "2024-03-19T13:30:27Z",
+            "content": "The next-generation iPad Air is now reportedly shipping to the United States and other countries in preparation for launch.\r\nThe rumor comes from the leaker known as \"Instant Digital,\" who claims tha… [+983 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": null,
+            "title": "Congressional leaders announce deal to fund rest of government - CNN",
+            "description": "Congressional leaders on Tuesday formally announced a deal to keep the rest of the government funded through the fiscal year, with the text of the legislation to be released “as soon as possible,” Speaker Mike Johnson said.",
+            "url": "https://www.cnn.com/2024/03/19/politics/congress-funding-agreement/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2087329517.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-03-19T13:29:00Z",
+            "content": "Congressional leaders on Tuesday formally announced a deal to keep the rest of the government funded through the fiscal year, but with just days to go before a key deadline, members from both parties… [+2079 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Six ex-police officers to be sentenced in Mississippi torture case - BBC.com",
+            "description": "The two victims were badly beaten and racially abused by police who stormed their Mississippi home.",
+            "url": "https://www.bbc.com/news/world-us-canada-68606973",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DBA2/production/_132962265_ap24078599869278.jpg",
+            "publishedAt": "2024-03-19T13:23:20Z",
+            "content": null
+        },
+        
+        {
+            
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Jack Hobbs",
+            "title": "Over 450 Jewish Hollywood creatives denounce Jonathan Glazer's 'Zone of Interest' Oscars speech in open letter - New York Post ",
+            "description": "“We refute our Jewishness being hijacked for the purpose of drawing a moral equivalence between a Nazi regime that sought to exterminate a race of people, and an Israeli nation that seeks to …",
+            "url": "https://nypost.com/2024/03/19/entertainment/jewish-hollywood-stars-pen-open-letter-to-zone-of-interest-director-jonathan-glazer/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/03/2024-dolby-theatre-ovation-hollywood-78625219.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2024-03-19T13:22:08Z",
+            "content": "More than 450 Jewish creatives and professionals in Hollywood are denouncing “The Zone of Interest” director Jonathan Glazers speech from the 2024 Oscars.\r\nIn his speech, Glazer, 58, drew parallels b… [+5229 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": null,
+                "name": "KSL.com"
+            },
+            "author": "https://www.facebook.com/kslcom/",
+            "title": "Sunset rocket launch shines in Southern Utah sky - KSL.com",
+            "description": "With its reuse, launches of SpaceX's Falcon 9 rocket from the West Coast might seem routine, but they still provoke a",
+            "url": "https://www.ksl.com/article/50954766/sunset-rocket-launch-shines-in-southern-utah-sky",
+            "urlToImage": "https://img.ksl.com/slc/2980/298045/29804534.jpeg?filter=kslv2/responsive_story_lg",
+            "publishedAt": "2024-03-19T13:21:15Z",
+            "content": "Estimated read time: Less than a minute\r\nST. GEORGE With its reuse, launches of SpaceX's Falcon 9 rocket from the West Coast might seem routine, but they still provoke a \"What was that?\" reaction whi… [+846 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        
+        {
+            
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "World shares dip, yen slides amid landmark BOJ policy shift - Reuters",
+            "description": null,
+            "url": "https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-19/",
+            "urlToImage": null,
+            "publishedAt": "2024-03-19T13:01:00Z",
+            "content": null
+        },
+        
+        {
+            
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Kerry Breen",
+            "title": "Missing toddler Elijah Vue's blanket found weeks after disappearance - CBS News",
+            "description": "A description of missing toddler Elijah Vue said he might have been carrying the blanket, which was found miles from where he was last seen.",
+            "url": "https://www.cbsnews.com/news/elijah-vue-missing-wisconsin-toddler-blanket-found-disappearance/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/02/21/507150a5-77d2-461a-935b-a27777d56e1d/thumbnail/1200x630/ba7e193b31ac04c5a82da8a5a5833466/missing-boy.png?v=b64ebf3cd0145765e4923158152de5b1",
+            "publishedAt": "2024-03-19T12:46:00Z",
+            "content": "Search for Elijah Vue continues nearly a month later \r\nSearch for Elijah Vue continues nearly a month later00:49\r\nThe blanket of a missing Wisconsin toddler was found weeks after his disappearance, l… [+3376 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Ryan Young",
+            "title": "Timberwolves star Anthony Edwards throws down ridiculous dunk of the year over John Collins in win vs. Jazz - Yahoo Sports",
+            "description": "John Collins got put on a wild poster on Monday night, and had to leave the game due to a head injury.",
+            "url": "https://sports.yahoo.com/timberwolves-star-anthony-edwards-throws-down-ridiculous-dunk-of-the-year-over-john-collins-in-win-vs-jazz-031721091.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/lVQTLcG5oFqKJg2mkqK7yQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/81f16b20-e59e-11ee-b7fd-68372646f2cf",
+            "publishedAt": "2024-03-19T12:34:53Z",
+            "content": "The dunk of the year belongs to Anthony Edwards.\r\nThe Minnesota Timberwolves star threw down an absolutely ridiculous dunk in the second half of their 114-104 win over the Utah Jazz at the Delta Cent… [+2499 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": null,
+            "title": "NCAA bracket predictions: Model releases surprising March Madness 2024 tournament picks - CBS Sports",
+            "description": "SportsLine's model has nailed 20 double-digit seed upsets and simulated the 2024 NCAA Tournament bracket 10,000 times",
+            "url": "https://www.cbssports.com/college-basketball/news/ncaa-bracket-predictions-model-releases-surprising-march-madness-2024-tournament-picks/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/02/11/b4433696-6c01-49db-aee7-eae6e3adab62/thumbnail/1200x675/d1bbb3d95ff5f85e57f66e2536845352/boo-buie-northwestern-usatsi.jpg",
+            "publishedAt": "2024-03-19T12:25:45Z",
+            "content": "The UConn Huskies are the defending national champions and earned the No. 1 overall seed in the 2024 NCAA Tournament bracket. The Huskies will play in the East Region of the 2024 March Madness bracke… [+4099 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Canada",
+            "title": "Brazil's Bolsonaro indicted for suspected fraud on vaccine records - Reuters Canada",
+            "description": null,
+            "url": "https://www.reuters.com/world/americas/brazils-bolsonaro-indicted-suspected-fraud-vaccine-records-2024-03-19/",
+            "urlToImage": null,
+            "publishedAt": "2024-03-19T12:18:00Z",
+            "content": null
+        },
+        
+        {
+            
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Francesca Bacardi",
+            "title": "Sophie Turner asks judge to 'reactivate' Joe Jonas divorce after failing to come to settlement - Page Six",
+            "description": "The Jonas Brothers member filed for divorce from the “Game of Thrones” alum in September 2023 after four years of marriage.",
+            "url": "https://pagesix.com/2024/03/19/entertainment/sophie-turner-asks-to-reactivate-joe-jonas-divorce-after-failing-to-settle/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/03/78625104.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2024-03-19T12:06:58Z",
+            "content": "Sophie Turner has filed paperwork requesting a judge “reactivate” her and Joe Jonas’ divorce case after attempts to settle child custody and property failed.\r\nMiami court documents submitted by the “… [+2331 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Article 23: Hong Kong legislature passes tough new national security law - Al Jazeera English",
+            "description": "Rights groups, foreign governments fear fast-tracked law will erode civil liberties and may be used to silence critics.",
+            "url": "https://www.aljazeera.com/news/2024/3/19/hong-kong-legislature-passes-tough-new-national-security-law",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/03/2024-03-19T112424Z_1008070096_RC2YO6A1OL4R_RTRMADP_3_HONGKONG-SECURITY-1710847912.jpg?resize=1920%2C1440",
+            "publishedAt": "2024-03-19T11:58:23Z",
+            "content": "Hong Kongs Legislative Council unanimously passed a new national security law that expands the governments power to crush dissent.\r\nThe Safeguarding National Security Law passed on Tuesday includes n… [+4897 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": null,
+                "name": "AL.com"
+            },
+            "author": "Leada Gore | lgore@al.com",
+            "title": "April 8 total solar eclipse: Why you should wear red or green on eclipse day - AL.com",
+            "description": "In the U.S., the totality will begin in Texas at 1:27 p.m. CT and will end in Maine at 3:35 p.m. ET.",
+            "url": "https://www.al.com/news/2024/03/april-8-total-solar-eclipse-why-you-should-wear-red-or-green-on-eclipse-day.html",
+            "urlToImage": "https://www.al.com/resizer/v2/HFTNQGVYRNCVPCMSDHHG4AVPPQ.jpg?auth=0b79d16210e4394ac59910bac7c905e37defde43b3e14e73cb7e1da8ddafc899&width=1280&quality=90",
+            "publishedAt": "2024-03-19T11:40:00Z",
+            "content": "Its August 2017 and everyone is abuzz with news of the solar eclipse. Fast forward seven years and, once again, the moons path across the sun has everyone excited.\r\nThe Great American Eclipse is set … [+2974 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": null,
+                "name": "The Athletic"
+            },
+            "author": "Mike Jones",
+            "title": "Grading the good, bad and ugly of every major NFL free agency 2024 deal - The Athletic",
+            "description": "Which deals make sense? Which are puzzling? We grade the agreements with the biggest free agents and the teams that paid up.",
+            "url": "https://theathletic.com/5332081/2024/03/18/nfl-2024-free-agency-grades/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2024/03/18190608/GettyImages-1789798359-scaled-e1710803189821.jpg",
+            "publishedAt": "2024-03-19T11:28:09Z",
+            "content": "The 2024 NFL year officially started on Wednesday, and thanks to the legal tampering window for free agency that opened Monday, it has been a frenzied week.\r\nMarquee free agents at every position and… [+54346 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Anders Hagstrom",
+            "title": "Israel sending delegation to DC after White House blasts lack of ‘coherent strategy’ - Fox News",
+            "description": "Israel is sending a delegation to Washington to discussr plans for an invasion of Rafah after the White House said Israel lacks a \"coherent\" strategy.",
+            "url": "https://www.foxnews.com/politics/israel-sending-delegation-dc-white-house-blasts-lack-coherent-strategy",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/10/AP23288859705382.jpg",
+            "publishedAt": "2024-03-19T10:46:00Z",
+            "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nPlease enter a valid email address.\r\nBy entering your e… [+2360 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Sharmila Kuthunur",
+            "title": "Euclid 'dark universe' telescope gets de-iced from a million miles away - Space.com",
+            "description": "\"De-icing should restore and preserve Euclid's ability to collect light from these ancient galaxies, but it's the first time we're doing this procedure.\"",
+            "url": "https://www.space.com/euclid-dark-universe-telescope-de-icing-process-mirrors-esa",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/rxnnXE4NGz2qyDi9Q7VKS7-1200-80.jpg",
+            "publishedAt": "2024-03-19T10:00:01Z",
+            "content": "Space is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.\r\n©\r\nFuture US, Inc. Full 7th Floor, 130 West 42nd Street,\r\nNew York,\r\nNY 10036."
+        },
+        
+        {
+            
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Laura He",
+            "title": "Biggest fraud in Chinese history? Beijing accuses Evergrande of inflating revenues by $78 billion - CNN",
+            "description": "Chinese regulators have accused Evergrande and its founder of inflating revenues by $78 billion, putting the insolvent property developer at the heart of the country’s biggest ever financial fraud case.",
+            "url": "https://www.cnn.com/2024/03/19/business/china-evergrande-fraud-csrc-investigation-hnk-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1744317078.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-03-19T09:54:00Z",
+            "content": "Editors Note: Sign up for CNNs Meanwhile in China newsletter which explores what you need to know about the countrys rise and how it impacts the world.\r\nChinese regulators have accused Evergrande and… [+2433 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": null,
+                "name": "Pff.com"
+            },
+            "author": "Trevor Sikkema",
+            "title": "2024 NFL Draft: Perfect player fits for teams that did not spend big in free agency | NFL Draft - Pro Football Focus",
+            "description": "Trevor Sikkema details the perfect NFL draft player fits for teams that did not spend big in free agency.",
+            "url": "https://www.pff.com/news/draft-2024-nfl-draft-perfect-player-fits-for-teams-that-did-not-spend-big-in-free-agency",
+            "urlToImage": "https://media.pff.com/2023/10/Harrison-Marvin-Alamy-scaled.jpg?w=956&h=538",
+            "publishedAt": "2024-03-19T09:45:36Z",
+            "content": "Dallas Cowboys need a versatile offensive lineman: With Tyler Smith expected to move from left guard to left tackle, they now have two starting spots to fill: center and left guard. Graham Barton is … [+5501 chars]"
+        }
+    ]
+}
